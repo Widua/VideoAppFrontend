@@ -1,0 +1,10 @@
+#headerID{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#header{
+    background-color: gray;
+    padding: 5px;
+}

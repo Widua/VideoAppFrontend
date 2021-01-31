@@ -1,0 +1,25 @@
+div ul li{
+
+    list-style-type: none;
+    width: 100%;
+}
+
+.menuElement{
+    margin-right: 40px;
+    display: block;
+    float: left;
+    padding: 20px;
+    background-color: lightblue;
+    width: 30%;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 2%;
+}
+
+.menuElement:hover{
+    background-color: indianred;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+
